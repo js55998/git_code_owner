@@ -1,3 +1,1 @@
-dmqedmqmdkqmdqd
-qdnmqwdnqwkdmnqwkd
-qdmnqwkdm;qwmdlqwmdl;qwmdlqwmdldmqwd;kmqwdmqwdk;
+print("Hello World")
