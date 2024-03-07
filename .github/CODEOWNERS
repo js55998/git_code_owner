@@ -1,0 +1,20 @@
+# Default Reviewers/CodeOwners  for All code Change
+* @js55998 @debasishsahoo  #project Admin
+
+# Reviewer by email for html files
+*.html @ganeshconfectioneryworks
+
+# Reviewer by organization Team (@org Name/ @team Name)
+*.txt @foniex@dev/@gmitprojects
+
+# Reviewer by Specific Folder
+/Script/js/ @debasish2319
+
+# Reviewer by Specific File
+*.css @gietuprojects
+
+# All Reviewer by Specific Folder
+docs/*  @gietuprojects
+
+# Specific Type of Directory Owner:
+**/logs @gmitprojects
